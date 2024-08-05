@@ -76,7 +76,7 @@ int main() {
         {
             for(int i = 0;i<5;i++)
                 {
-                    cout<<"printed"<<endl; 
+                    cout<<"testing"<<endl; 
                 }
                 q++;
         }
@@ -86,8 +86,8 @@ int main() {
     {
         while(i<5)
         {
-            cout<<"printed"<<endl;
-            i++; //prints world hello 5 times 
+            cout<<"gnitset"<<endl;
+            i++; 
         }
     }   
 
